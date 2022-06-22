@@ -4,7 +4,7 @@ This repo is implementation of Fair Contrastive Learning and based on the [sourc
 
 
 
-![](.\figures\fscl.png)
+![main_image](https://github.com/sungho-CoolG/FSCL/tree/main/figures/fscl.png)
 
 
 
