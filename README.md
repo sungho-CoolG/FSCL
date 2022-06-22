@@ -1,11 +1,6 @@
 # Fair Contrastive Learning
-
-This repo is implementation of Fair Contrastive Learning and based on the [source code](https://github.com/HobbitLong/SupContrast) of [supervised contrastive learning](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html).  We are still clearing up it and will provide a more extended version including implementation of other comparable models. In this version, we cover implementation of  [SupCon](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html) and [SimCLR](http://proceedings.mlr.press/v119/chen20j.html)  on CelebA and UTK Face datasets.
-
-
-
-![main_image](https://github.com/sungho-CoolG/FSCL/tree/main/figures/fscl.png)
-
+This paper is presented at **CVPR 2022**.
+The implementation is based on the [source code](https://github.com/HobbitLong/SupContrast) of [supervised contrastive learning](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html).  We are still clearing up it and will provide a more extended version including implementation of other comparable models. In this version, we cover implementation of  [SupCon](https://proceedings.neurips.cc/paper/2020/hash/d89a66c7c80a29b1bdbab0f2a1a94af8-Abstract.html) and [SimCLR](http://proceedings.mlr.press/v119/chen20j.html)  on CelebA and 
 
 
 ## Requirements
